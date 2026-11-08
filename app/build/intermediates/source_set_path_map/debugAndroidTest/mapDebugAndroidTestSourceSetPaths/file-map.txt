@@ -1,4 +1,0 @@
-com.example.webviewinfo.test.app-androidTest-0 C:\Users\huder\Documents\deepseek-harness\default-workspace\WebViewInfo\app\build\generated\res\resValues\androidTest\debug
-com.example.webviewinfo.test.app-mergeDebugAndroidTestResources-1 C:\Users\huder\Documents\deepseek-harness\default-workspace\WebViewInfo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.webviewinfo.test.app-mergeDebugAndroidTestResources-2 C:\Users\huder\Documents\deepseek-harness\default-workspace\WebViewInfo\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.webviewinfo.test.app-debugAndroidTest-3 C:\Users\huder\Documents\deepseek-harness\default-workspace\WebViewInfo\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

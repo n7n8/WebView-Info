@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="ic_launcher_background">#1A73E8</color>
-    <string name="app_name">WebView Info</string>
-    <string name="label_implementation">Webview Implementation</string>
-    <string name="label_version">Webview Version</string>
-    <string name="not_available">N/A</string>
-    <style name="Theme.WebViewInfo" parent="Theme.Material3.DayNight.NoActionBar"/>
-</resources>
